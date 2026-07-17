@@ -1,0 +1,552 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 4000 1100">
+<rect width="100%" height="100%" fill="#111827"/>
+<style>
+  .node { fill: #1F2937; stroke: #10B981; stroke-width: 2; }
+  .line { stroke: #10B981; stroke-width: 2; }
+  .text { font-family: Consolas, monospace; font-size: 13px; text-anchor: middle; fill: #ffffff; }
+</style>
+    <line x1="2000" y1="75" x2="1000" y2="115" class="line" />
+    <line x1="1000" y1="165" x2="500" y2="205" class="line" />
+    <line x1="500" y1="255" x2="250" y2="295" class="line" />
+    <line x1="250" y1="345" x2="125" y2="385" class="line" />
+    <line x1="125" y1="435" x2="62" y2="475" class="line" />
+    <line x1="62" y1="525" x2="31" y2="565" class="line" />
+    <line x1="31" y1="615" x2="15" y2="655" class="line" />
+    <line x1="62" y1="525" x2="93" y2="565" class="line" />
+    <line x1="93" y1="615" x2="77" y2="655" class="line" />
+    <line x1="93" y1="615" x2="109" y2="655" class="line" />
+    <line x1="125" y1="435" x2="187" y2="475" class="line" />
+    <line x1="187" y1="525" x2="156" y2="565" class="line" />
+    <line x1="156" y1="615" x2="140" y2="655" class="line" />
+    <line x1="156" y1="615" x2="171" y2="655" class="line" />
+    <line x1="187" y1="525" x2="218" y2="565" class="line" />
+    <line x1="218" y1="615" x2="202" y2="655" class="line" />
+    <line x1="218" y1="615" x2="234" y2="655" class="line" />
+    <line x1="250" y1="345" x2="375" y2="385" class="line" />
+    <line x1="375" y1="435" x2="312" y2="475" class="line" />
+    <line x1="312" y1="525" x2="281" y2="565" class="line" />
+    <line x1="281" y1="615" x2="296" y2="655" class="line" />
+    <line x1="312" y1="525" x2="343" y2="565" class="line" />
+    <line x1="343" y1="615" x2="327" y2="655" class="line" />
+    <line x1="343" y1="615" x2="359" y2="655" class="line" />
+    <line x1="375" y1="435" x2="437" y2="475" class="line" />
+    <line x1="437" y1="525" x2="406" y2="565" class="line" />
+    <line x1="437" y1="525" x2="468" y2="565" class="line" />
+    <line x1="468" y1="615" x2="452" y2="655" class="line" />
+    <line x1="468" y1="615" x2="484" y2="655" class="line" />
+    <line x1="500" y1="255" x2="750" y2="295" class="line" />
+    <line x1="750" y1="345" x2="625" y2="385" class="line" />
+    <line x1="625" y1="435" x2="562" y2="475" class="line" />
+    <line x1="562" y1="525" x2="531" y2="565" class="line" />
+    <line x1="531" y1="615" x2="546" y2="655" class="line" />
+    <line x1="562" y1="525" x2="593" y2="565" class="line" />
+    <line x1="593" y1="615" x2="577" y2="655" class="line" />
+    <line x1="593" y1="615" x2="609" y2="655" class="line" />
+    <line x1="625" y1="435" x2="687" y2="475" class="line" />
+    <line x1="687" y1="525" x2="656" y2="565" class="line" />
+    <line x1="656" y1="615" x2="640" y2="655" class="line" />
+    <line x1="687" y1="525" x2="718" y2="565" class="line" />
+    <line x1="718" y1="615" x2="734" y2="655" class="line" />
+    <line x1="750" y1="345" x2="875" y2="385" class="line" />
+    <line x1="875" y1="435" x2="812" y2="475" class="line" />
+    <line x1="812" y1="525" x2="781" y2="565" class="line" />
+    <line x1="781" y1="615" x2="765" y2="655" class="line" />
+    <line x1="781" y1="615" x2="796" y2="655" class="line" />
+    <line x1="812" y1="525" x2="843" y2="565" class="line" />
+    <line x1="843" y1="615" x2="827" y2="655" class="line" />
+    <line x1="875" y1="435" x2="937" y2="475" class="line" />
+    <line x1="937" y1="525" x2="906" y2="565" class="line" />
+    <line x1="906" y1="615" x2="890" y2="655" class="line" />
+    <line x1="937" y1="525" x2="968" y2="565" class="line" />
+    <line x1="968" y1="615" x2="952" y2="655" class="line" />
+    <line x1="968" y1="615" x2="984" y2="655" class="line" />
+    <line x1="1000" y1="165" x2="1500" y2="205" class="line" />
+    <line x1="1500" y1="255" x2="1250" y2="295" class="line" />
+    <line x1="1250" y1="345" x2="1125" y2="385" class="line" />
+    <line x1="1125" y1="435" x2="1062" y2="475" class="line" />
+    <line x1="1062" y1="525" x2="1031" y2="565" class="line" />
+    <line x1="1062" y1="525" x2="1093" y2="565" class="line" />
+    <line x1="1125" y1="435" x2="1187" y2="475" class="line" />
+    <line x1="1187" y1="525" x2="1156" y2="565" class="line" />
+    <line x1="1250" y1="345" x2="1375" y2="385" class="line" />
+    <line x1="1375" y1="435" x2="1312" y2="475" class="line" />
+    <line x1="1312" y1="525" x2="1281" y2="565" class="line" />
+    <line x1="1375" y1="435" x2="1437" y2="475" class="line" />
+    <line x1="1437" y1="525" x2="1406" y2="565" class="line" />
+    <line x1="1500" y1="255" x2="1750" y2="295" class="line" />
+    <line x1="1750" y1="345" x2="1625" y2="385" class="line" />
+    <line x1="1625" y1="435" x2="1562" y2="475" class="line" />
+    <line x1="1562" y1="525" x2="1531" y2="565" class="line" />
+    <line x1="1562" y1="525" x2="1593" y2="565" class="line" />
+    <line x1="1625" y1="435" x2="1687" y2="475" class="line" />
+    <line x1="1687" y1="525" x2="1656" y2="565" class="line" />
+    <line x1="1750" y1="345" x2="1875" y2="385" class="line" />
+    <line x1="1875" y1="435" x2="1937" y2="475" class="line" />
+    <line x1="1937" y1="525" x2="1968" y2="565" class="line" />
+    <line x1="2000" y1="75" x2="3000" y2="115" class="line" />
+    <line x1="3000" y1="165" x2="2500" y2="205" class="line" />
+    <line x1="2500" y1="255" x2="2250" y2="295" class="line" />
+    <line x1="2250" y1="345" x2="2125" y2="385" class="line" />
+    <line x1="2125" y1="435" x2="2062" y2="475" class="line" />
+    <line x1="2062" y1="525" x2="2031" y2="565" class="line" />
+    <line x1="2031" y1="615" x2="2015" y2="655" class="line" />
+    <line x1="2125" y1="435" x2="2187" y2="475" class="line" />
+    <line x1="2250" y1="345" x2="2375" y2="385" class="line" />
+    <line x1="2375" y1="435" x2="2312" y2="475" class="line" />
+    <line x1="2312" y1="525" x2="2281" y2="565" class="line" />
+    <line x1="2281" y1="615" x2="2296" y2="655" class="line" />
+    <line x1="2296" y1="705" x2="2304" y2="745" class="line" />
+    <line x1="2312" y1="525" x2="2343" y2="565" class="line" />
+    <line x1="2343" y1="615" x2="2359" y2="655" class="line" />
+    <line x1="2375" y1="435" x2="2437" y2="475" class="line" />
+    <line x1="2500" y1="255" x2="2750" y2="295" class="line" />
+    <line x1="2750" y1="345" x2="2625" y2="385" class="line" />
+    <line x1="2750" y1="345" x2="2875" y2="385" class="line" />
+    <line x1="2875" y1="435" x2="2937" y2="475" class="line" />
+    <line x1="2937" y1="525" x2="2906" y2="565" class="line" />
+    <line x1="2906" y1="615" x2="2921" y2="655" class="line" />
+    <line x1="2937" y1="525" x2="2968" y2="565" class="line" />
+    <line x1="2968" y1="615" x2="2984" y2="655" class="line" />
+    <line x1="3000" y1="165" x2="3500" y2="205" class="line" />
+    <line x1="3500" y1="255" x2="3750" y2="295" class="line" />
+    <line x1="3750" y1="345" x2="3875" y2="385" class="line" />
+    <line x1="3875" y1="435" x2="3937" y2="475" class="line" />
+    <line x1="3937" y1="525" x2="3968" y2="565" class="line" />
+    <line x1="3968" y1="615" x2="3984" y2="655" class="line" />
+    <rect x="1940" y="25" width="120" height="55" rx="8" class="node" />
+    <text x="2000" y="42" class="text" style="fill:#A7F3D0">ID: 189</text>
+    <text x="2000" y="57" class="text">Pilas AAA (paq</text>
+    <text x="2000" y="72" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="940" y="115" width="120" height="55" rx="8" class="node" />
+    <text x="1000" y="132" class="text" style="fill:#A7F3D0">ID: 116</text>
+    <text x="1000" y="147" class="text">Mantequilla de</text>
+    <text x="1000" y="162" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="440" y="205" width="120" height="55" rx="8" class="node" />
+    <text x="500" y="222" class="text" style="fill:#A7F3D0">ID: 129</text>
+    <text x="500" y="237" class="text">Metronidazol (</text>
+    <text x="500" y="252" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="190" y="295" width="120" height="55" rx="8" class="node" />
+    <text x="250" y="312" class="text" style="fill:#A7F3D0">ID: 132</text>
+    <text x="250" y="327" class="text">Aspirina (tabl</text>
+    <text x="250" y="342" class="text" style="fill:#FCD34D">Cant: 25</text>
+    <rect x="65" y="385" width="120" height="55" rx="8" class="node" />
+    <text x="125" y="402" class="text" style="fill:#A7F3D0">ID: 104</text>
+    <text x="125" y="417" class="text">Atun en lata (</text>
+    <text x="125" y="432" class="text" style="fill:#FCD34D">Cant: 100</text>
+    <rect x="2" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="62" y="492" class="text" style="fill:#A7F3D0">ID: 118</text>
+    <text x="62" y="507" class="text">Sopa deshidrat</text>
+    <text x="62" y="522" class="text" style="fill:#FCD34D">Cant: 50</text>
+    <rect x="-29" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="31" y="582" class="text" style="fill:#A7F3D0">ID: 125</text>
+    <text x="31" y="597" class="text">Jugo de caja (</text>
+    <text x="31" y="612" class="text" style="fill:#FCD34D">Cant: 40</text>
+    <rect x="-45" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="15" y="672" class="text" style="fill:#A7F3D0">ID: 101</text>
+    <text x="15" y="687" class="text">Arroz_Blanco (</text>
+    <text x="15" y="702" class="text" style="fill:#FCD34D">Cant: 50</text>
+    <rect x="33" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="93" y="582" class="text" style="fill:#A7F3D0">ID: 205</text>
+    <text x="93" y="597" class="text">Sopa enlatada </text>
+    <text x="93" y="612" class="text" style="fill:#FCD34D">Cant: 40</text>
+    <rect x="17" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="77" y="672" class="text" style="fill:#A7F3D0">ID: 117</text>
+    <text x="77" y="687" class="text">Galletas de so</text>
+    <text x="77" y="702" class="text" style="fill:#FCD34D">Cant: 70</text>
+    <rect x="49" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="109" y="672" class="text" style="fill:#A7F3D0">ID: 181</text>
+    <text x="109" y="687" class="text">Comida para be</text>
+    <text x="109" y="702" class="text" style="fill:#FCD34D">Cant: 30</text>
+    <rect x="127" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="187" y="492" class="text" style="fill:#A7F3D0">ID: 144</text>
+    <text x="187" y="507" class="text">Acetaminofen g</text>
+    <text x="187" y="522" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="96" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="156" y="582" class="text" style="fill:#A7F3D0">ID: 143</text>
+    <text x="156" y="597" class="text">Nitroglicerina</text>
+    <text x="156" y="612" class="text" style="fill:#FCD34D">Cant: 5</text>
+    <rect x="80" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="140" y="672" class="text" style="fill:#A7F3D0">ID: 139</text>
+    <text x="140" y="687" class="text">Antiacido mast</text>
+    <text x="140" y="702" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="111" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="171" y="672" class="text" style="fill:#A7F3D0">ID: 105</text>
+    <text x="171" y="687" class="text">Sardinas en la</text>
+    <text x="171" y="702" class="text" style="fill:#FCD34D">Cant: 80</text>
+    <rect x="158" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="218" y="582" class="text" style="fill:#A7F3D0">ID: 133</text>
+    <text x="218" y="597" class="text">Loperamida (ca</text>
+    <text x="218" y="612" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="142" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="202" y="672" class="text" style="fill:#A7F3D0">ID: 127</text>
+    <text x="202" y="687" class="text">Paracetamol (t</text>
+    <text x="202" y="702" class="text" style="fill:#FCD34D">Cant: 30</text>
+    <rect x="174" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="234" y="672" class="text" style="fill:#A7F3D0">ID: 119</text>
+    <text x="234" y="687" class="text">Cafe molido (p</text>
+    <text x="234" y="702" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="315" y="385" width="120" height="55" rx="8" class="node" />
+    <text x="375" y="402" class="text" style="fill:#A7F3D0">ID: 128</text>
+    <text x="375" y="417" class="text">Ibuprofeno (ta</text>
+    <text x="375" y="432" class="text" style="fill:#FCD34D">Cant: 25</text>
+    <rect x="252" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="312" y="492" class="text" style="fill:#A7F3D0">ID: 159</text>
+    <text x="312" y="507" class="text">Jeringas ester</text>
+    <text x="312" y="522" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="221" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="281" y="582" class="text" style="fill:#A7F3D0">ID: 106</text>
+    <text x="281" y="597" class="text">Maiz dulce en </text>
+    <text x="281" y="612" class="text" style="fill:#FCD34D">Cant: 50</text>
+    <rect x="236" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="296" y="672" class="text" style="fill:#A7F3D0">ID: 135</text>
+    <text x="296" y="687" class="text">Difenhidramina</text>
+    <text x="296" y="702" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="283" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="343" y="582" class="text" style="fill:#A7F3D0">ID: 111</text>
+    <text x="343" y="597" class="text">Formula infant</text>
+    <text x="343" y="612" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="267" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="327" y="672" class="text" style="fill:#A7F3D0">ID: 160</text>
+    <text x="327" y="687" class="text">Jeringas ester</text>
+    <text x="327" y="702" class="text" style="fill:#FCD34D">Cant: 8</text>
+    <rect x="299" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="359" y="672" class="text" style="fill:#A7F3D0">ID: 126</text>
+    <text x="359" y="687" class="text">Amoxicilina (c</text>
+    <text x="359" y="702" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="377" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="437" y="492" class="text" style="fill:#A7F3D0">ID: 110</text>
+    <text x="437" y="507" class="text">Leche en polvo</text>
+    <text x="437" y="522" class="text" style="fill:#FCD34D">Cant: 25</text>
+    <rect x="346" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="406" y="582" class="text" style="fill:#A7F3D0">ID: 141</text>
+    <text x="406" y="597" class="text">Metformina (ta</text>
+    <text x="406" y="612" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="408" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="468" y="582" class="text" style="fill:#A7F3D0">ID: 203</text>
+    <text x="468" y="597" class="text">Diclofenaco (g</text>
+    <text x="468" y="612" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="392" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="452" y="672" class="text" style="fill:#A7F3D0">ID: 140</text>
+    <text x="452" y="687" class="text">Enalapril (tab</text>
+    <text x="452" y="702" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="424" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="484" y="672" class="text" style="fill:#A7F3D0">ID: 102</text>
+    <text x="484" y="687" class="text">Frijoles negro</text>
+    <text x="484" y="702" class="text" style="fill:#FCD34D">Cant: 40</text>
+    <rect x="690" y="295" width="120" height="55" rx="8" class="node" />
+    <text x="750" y="312" class="text" style="fill:#A7F3D0">ID: 156</text>
+    <text x="750" y="327" class="text">Guantes de nit</text>
+    <text x="750" y="342" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="565" y="385" width="120" height="55" rx="8" class="node" />
+    <text x="625" y="402" class="text" style="fill:#A7F3D0">ID: 167</text>
+    <text x="625" y="417" class="text">Toallitas hume</text>
+    <text x="625" y="432" class="text" style="fill:#FCD34D">Cant: 40</text>
+    <rect x="502" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="562" y="492" class="text" style="fill:#A7F3D0">ID: 122</text>
+    <text x="562" y="507" class="text">Agua embotella</text>
+    <text x="562" y="522" class="text" style="fill:#FCD34D">Cant: 100</text>
+    <rect x="471" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="531" y="582" class="text" style="fill:#A7F3D0">ID: 209</text>
+    <text x="531" y="597" class="text">Insulina (vial</text>
+    <text x="531" y="612" class="text" style="fill:#FCD34D">Cant: 5</text>
+    <rect x="486" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="546" y="672" class="text" style="fill:#A7F3D0">ID: 121</text>
+    <text x="546" y="687" class="text">Agua embotella</text>
+    <text x="546" y="702" class="text" style="fill:#FCD34D">Cant: 120</text>
+    <rect x="533" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="593" y="582" class="text" style="fill:#A7F3D0">ID: 207</text>
+    <text x="593" y="597" class="text">Toallitas limp</text>
+    <text x="593" y="612" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="517" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="577" y="672" class="text" style="fill:#A7F3D0">ID: 123</text>
+    <text x="577" y="687" class="text">Agua embotella</text>
+    <text x="577" y="702" class="text" style="fill:#FCD34D">Cant: 30</text>
+    <rect x="549" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="609" y="672" class="text" style="fill:#A7F3D0">ID: 148</text>
+    <text x="609" y="687" class="text">Venda elastica</text>
+    <text x="609" y="702" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="627" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="687" y="492" class="text" style="fill:#A7F3D0">ID: 152</text>
+    <text x="687" y="507" class="text">Agua oxigenada</text>
+    <text x="687" y="522" class="text" style="fill:#FCD34D">Cant: 25</text>
+    <rect x="596" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="656" y="582" class="text" style="fill:#A7F3D0">ID: 134</text>
+    <text x="656" y="597" class="text">Sales de rehid</text>
+    <text x="656" y="612" class="text" style="fill:#FCD34D">Cant: 50</text>
+    <rect x="580" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="640" y="672" class="text" style="fill:#A7F3D0">ID: 109</text>
+    <text x="640" y="687" class="text">Avena en hojue</text>
+    <text x="640" y="702" class="text" style="fill:#FCD34D">Cant: 45</text>
+    <rect x="658" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="718" y="582" class="text" style="fill:#A7F3D0">ID: 108</text>
+    <text x="718" y="597" class="text">Lentejas (bols</text>
+    <text x="718" y="612" class="text" style="fill:#FCD34D">Cant: 30</text>
+    <rect x="674" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="734" y="672" class="text" style="fill:#A7F3D0">ID: 130</text>
+    <text x="734" y="687" class="text">Omeprazol (cap</text>
+    <text x="734" y="702" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="815" y="385" width="120" height="55" rx="8" class="node" />
+    <text x="875" y="402" class="text" style="fill:#A7F3D0">ID: 142</text>
+    <text x="875" y="417" class="text">Inhalador Salb</text>
+    <text x="875" y="432" class="text" style="fill:#FCD34D">Cant: 8</text>
+    <rect x="752" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="812" y="492" class="text" style="fill:#A7F3D0">ID: 151</text>
+    <text x="812" y="507" class="text">Alcohol isopro</text>
+    <text x="812" y="522" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="721" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="781" y="582" class="text" style="fill:#A7F3D0">ID: 147</text>
+    <text x="781" y="597" class="text">Vendas de gasa</text>
+    <text x="781" y="612" class="text" style="fill:#FCD34D">Cant: 25</text>
+    <rect x="705" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="765" y="672" class="text" style="fill:#A7F3D0">ID: 124</text>
+    <text x="765" y="687" class="text">Suero oral en </text>
+    <text x="765" y="702" class="text" style="fill:#FCD34D">Cant: 60</text>
+    <rect x="736" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="796" y="672" class="text" style="fill:#A7F3D0">ID: 145</text>
+    <text x="796" y="687" class="text">Ivermectina (t</text>
+    <text x="796" y="702" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="783" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="843" y="582" class="text" style="fill:#A7F3D0">ID: 165</text>
+    <text x="843" y="597" class="text">Pañales para </text>
+    <text x="843" y="612" class="text" style="fill:#FCD34D">Cant: 30</text>
+    <rect x="767" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="827" y="672" class="text" style="fill:#A7F3D0">ID: 103</text>
+    <text x="827" y="687" class="text">Pasta espaguet</text>
+    <text x="827" y="702" class="text" style="fill:#FCD34D">Cant: 60</text>
+    <rect x="877" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="937" y="492" class="text" style="fill:#A7F3D0">ID: 146</text>
+    <text x="937" y="507" class="text">Gasas esterile</text>
+    <text x="937" y="522" class="text" style="fill:#FCD34D">Cant: 30</text>
+    <rect x="846" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="906" y="582" class="text" style="fill:#A7F3D0">ID: 168</text>
+    <text x="906" y="597" class="text">Alcohol en gel</text>
+    <text x="906" y="612" class="text" style="fill:#FCD34D">Cant: 25</text>
+    <rect x="830" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="890" y="672" class="text" style="fill:#A7F3D0">ID: 136</text>
+    <text x="890" y="687" class="text">Vitamina C (ta</text>
+    <text x="890" y="702" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="908" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="968" y="582" class="text" style="fill:#A7F3D0">ID: 166</text>
+    <text x="968" y="597" class="text">Pañales para </text>
+    <text x="968" y="612" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="892" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="952" y="672" class="text" style="fill:#A7F3D0">ID: 137</text>
+    <text x="952" y="687" class="text">Multivitaminic</text>
+    <text x="952" y="702" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="924" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="984" y="672" class="text" style="fill:#A7F3D0">ID: 153</text>
+    <text x="984" y="687" class="text">Povidona yodad</text>
+    <text x="984" y="702" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="1440" y="205" width="120" height="55" rx="8" class="node" />
+    <text x="1500" y="222" class="text" style="fill:#A7F3D0">ID: 169</text>
+    <text x="1500" y="237" class="text">Jabon liquido </text>
+    <text x="1500" y="252" class="text" style="fill:#FCD34D">Cant: 25</text>
+    <rect x="1190" y="295" width="120" height="55" rx="8" class="node" />
+    <text x="1250" y="312" class="text" style="fill:#A7F3D0">ID: 204</text>
+    <text x="1250" y="327" class="text">Repelente de m</text>
+    <text x="1250" y="342" class="text" style="fill:#FCD34D">Cant: 30</text>
+    <rect x="1065" y="385" width="120" height="55" rx="8" class="node" />
+    <text x="1125" y="402" class="text" style="fill:#A7F3D0">ID: 157</text>
+    <text x="1125" y="417" class="text">Mascarillas qu</text>
+    <text x="1125" y="432" class="text" style="fill:#FCD34D">Cant: 30</text>
+    <rect x="1002" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="1062" y="492" class="text" style="fill:#A7F3D0">ID: 149</text>
+    <text x="1062" y="507" class="text">Curitas / Apos</text>
+    <text x="1062" y="522" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="971" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="1031" y="582" class="text" style="fill:#A7F3D0">ID: 131</text>
+    <text x="1031" y="597" class="text">Loratadina (ta</text>
+    <text x="1031" y="612" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="1033" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="1093" y="582" class="text" style="fill:#A7F3D0">ID: 138</text>
+    <text x="1093" y="597" class="text">Calcio + Vitam</text>
+    <text x="1093" y="612" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="1127" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="1187" y="492" class="text" style="fill:#A7F3D0">ID: 171</text>
+    <text x="1187" y="507" class="text">Pasta dental (</text>
+    <text x="1187" y="522" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="1096" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="1156" y="582" class="text" style="fill:#A7F3D0">ID: 120</text>
+    <text x="1156" y="597" class="text">Te en bolsitas</text>
+    <text x="1156" y="612" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="1315" y="385" width="120" height="55" rx="8" class="node" />
+    <text x="1375" y="402" class="text" style="fill:#A7F3D0">ID: 164</text>
+    <text x="1375" y="417" class="text">Protectores di</text>
+    <text x="1375" y="432" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="1252" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="1312" y="492" class="text" style="fill:#A7F3D0">ID: 175</text>
+    <text x="1312" y="507" class="text">Cloro (botella</text>
+    <text x="1312" y="522" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="1221" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="1281" y="582" class="text" style="fill:#A7F3D0">ID: 114</text>
+    <text x="1281" y="597" class="text">Aceite vegetal</text>
+    <text x="1281" y="612" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="1377" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="1437" y="492" class="text" style="fill:#A7F3D0">ID: 173</text>
+    <text x="1437" y="507" class="text">Jabon lavaplat</text>
+    <text x="1437" y="522" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="1346" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="1406" y="582" class="text" style="fill:#A7F3D0">ID: 163</text>
+    <text x="1406" y="597" class="text">Toallitas sani</text>
+    <text x="1406" y="612" class="text" style="fill:#FCD34D">Cant: 35</text>
+    <rect x="1690" y="295" width="120" height="55" rx="8" class="node" />
+    <text x="1750" y="312" class="text" style="fill:#A7F3D0">ID: 113</text>
+    <text x="1750" y="327" class="text">Azucar blanca </text>
+    <text x="1750" y="342" class="text" style="fill:#FCD34D">Cant: 30</text>
+    <rect x="1565" y="385" width="120" height="55" rx="8" class="node" />
+    <text x="1625" y="402" class="text" style="fill:#A7F3D0">ID: 150</text>
+    <text x="1625" y="417" class="text">Esparadrapo (r</text>
+    <text x="1625" y="432" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="1502" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="1562" y="492" class="text" style="fill:#A7F3D0">ID: 170</text>
+    <text x="1562" y="507" class="text">Champu (botell</text>
+    <text x="1562" y="522" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="1471" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="1531" y="582" class="text" style="fill:#A7F3D0">ID: 154</text>
+    <text x="1531" y="597" class="text">Algodon hidrof</text>
+    <text x="1531" y="612" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="1533" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="1593" y="582" class="text" style="fill:#A7F3D0">ID: 174</text>
+    <text x="1593" y="597" class="text">Detergente par</text>
+    <text x="1593" y="612" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="1627" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="1687" y="492" class="text" style="fill:#A7F3D0">ID: 202</text>
+    <text x="1687" y="507" class="text">Pastillas pota</text>
+    <text x="1687" y="522" class="text" style="fill:#FCD34D">Cant: 25</text>
+    <rect x="1596" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="1656" y="582" class="text" style="fill:#A7F3D0">ID: 115</text>
+    <text x="1656" y="597" class="text">Miel de abeja </text>
+    <text x="1656" y="612" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="1815" y="385" width="120" height="55" rx="8" class="node" />
+    <text x="1875" y="402" class="text" style="fill:#A7F3D0">ID: 112</text>
+    <text x="1875" y="417" class="text">Sal de mesa (p</text>
+    <text x="1875" y="432" class="text" style="fill:#FCD34D">Cant: 30</text>
+    <rect x="1877" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="1937" y="492" class="text" style="fill:#A7F3D0">ID: 155</text>
+    <text x="1937" y="507" class="text">Baja lenguas (</text>
+    <text x="1937" y="522" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="1908" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="1968" y="582" class="text" style="fill:#A7F3D0">ID: 188</text>
+    <text x="1968" y="597" class="text">Pilas AA (paqu</text>
+    <text x="1968" y="612" class="text" style="fill:#FCD34D">Cant: 25</text>
+    <rect x="2940" y="115" width="120" height="55" rx="8" class="node" />
+    <text x="3000" y="132" class="text" style="fill:#A7F3D0">ID: 198</text>
+    <text x="3000" y="147" class="text">Radio a pilas </text>
+    <text x="3000" y="162" class="text" style="fill:#FCD34D">Cant: 5</text>
+    <rect x="2440" y="205" width="120" height="55" rx="8" class="node" />
+    <text x="2500" y="222" class="text" style="fill:#A7F3D0">ID: 187</text>
+    <text x="2500" y="237" class="text">Linterna LED (</text>
+    <text x="2500" y="252" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="2190" y="295" width="120" height="55" rx="8" class="node" />
+    <text x="2250" y="312" class="text" style="fill:#A7F3D0">ID: 177</text>
+    <text x="2250" y="327" class="text">Carrito para b</text>
+    <text x="2250" y="342" class="text" style="fill:#FCD34D">Cant: 3</text>
+    <rect x="2065" y="385" width="120" height="55" rx="8" class="node" />
+    <text x="2125" y="402" class="text" style="fill:#A7F3D0">ID: 172</text>
+    <text x="2125" y="417" class="text">Cepillo dental</text>
+    <text x="2125" y="432" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="2002" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="2062" y="492" class="text" style="fill:#A7F3D0">ID: 162</text>
+    <text x="2062" y="507" class="text">Papel higienic</text>
+    <text x="2062" y="522" class="text" style="fill:#FCD34D">Cant: 40</text>
+    <rect x="1971" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="2031" y="582" class="text" style="fill:#A7F3D0">ID: 161</text>
+    <text x="2031" y="597" class="text">Collarin cervi</text>
+    <text x="2031" y="612" class="text" style="fill:#FCD34D">Cant: 4</text>
+    <rect x="1955" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="2015" y="672" class="text" style="fill:#A7F3D0">ID: 158</text>
+    <text x="2015" y="687" class="text">Termometro dig</text>
+    <text x="2015" y="702" class="text" style="fill:#FCD34D">Cant: 5</text>
+    <rect x="2127" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="2187" y="492" class="text" style="fill:#A7F3D0">ID: 176</text>
+    <text x="2187" y="507" class="text">Bolsas de basu</text>
+    <text x="2187" y="522" class="text" style="fill:#FCD34D">Cant: 30</text>
+    <rect x="2315" y="385" width="120" height="55" rx="8" class="node" />
+    <text x="2375" y="402" class="text" style="fill:#A7F3D0">ID: 185</text>
+    <text x="2375" y="417" class="text">Libro de color</text>
+    <text x="2375" y="432" class="text" style="fill:#FCD34D">Cant: 8</text>
+    <rect x="2252" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="2312" y="492" class="text" style="fill:#A7F3D0">ID: 182</text>
+    <text x="2312" y="507" class="text">Juego de mesa </text>
+    <text x="2312" y="522" class="text" style="fill:#FCD34D">Cant: 5</text>
+    <rect x="2221" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="2281" y="582" class="text" style="fill:#A7F3D0">ID: 178</text>
+    <text x="2281" y="597" class="text">Portabebes / M</text>
+    <text x="2281" y="612" class="text" style="fill:#FCD34D">Cant: 4</text>
+    <rect x="2236" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="2296" y="672" class="text" style="fill:#A7F3D0">ID: 179</text>
+    <text x="2296" y="687" class="text">Biberon de vid</text>
+    <text x="2296" y="702" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="2244" y="745" width="120" height="55" rx="8" class="node" />
+    <text x="2304" y="762" class="text" style="fill:#A7F3D0">ID: 180</text>
+    <text x="2304" y="777" class="text">Chupete (silic</text>
+    <text x="2304" y="792" class="text" style="fill:#FCD34D">Cant: 8</text>
+    <rect x="2283" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="2343" y="582" class="text" style="fill:#A7F3D0">ID: 183</text>
+    <text x="2343" y="597" class="text">Naipes / Carta</text>
+    <text x="2343" y="612" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="2299" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="2359" y="672" class="text" style="fill:#A7F3D0">ID: 184</text>
+    <text x="2359" y="687" class="text">Juego de ajedr</text>
+    <text x="2359" y="702" class="text" style="fill:#FCD34D">Cant: 4</text>
+    <rect x="2377" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="2437" y="492" class="text" style="fill:#A7F3D0">ID: 186</text>
+    <text x="2437" y="507" class="text">Cartas UNO (ju</text>
+    <text x="2437" y="522" class="text" style="fill:#FCD34D">Cant: 6</text>
+    <rect x="2690" y="295" width="120" height="55" rx="8" class="node" />
+    <text x="2750" y="312" class="text" style="fill:#A7F3D0">ID: 191</text>
+    <text x="2750" y="327" class="text">Silbato de eme</text>
+    <text x="2750" y="342" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="2565" y="385" width="120" height="55" rx="8" class="node" />
+    <text x="2625" y="402" class="text" style="fill:#A7F3D0">ID: 190</text>
+    <text x="2625" y="417" class="text">Bateria extern</text>
+    <text x="2625" y="432" class="text" style="fill:#FCD34D">Cant: 8</text>
+    <rect x="2815" y="385" width="120" height="55" rx="8" class="node" />
+    <text x="2875" y="402" class="text" style="fill:#A7F3D0">ID: 192</text>
+    <text x="2875" y="417" class="text">Encendedor (ga</text>
+    <text x="2875" y="432" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="2877" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="2937" y="492" class="text" style="fill:#A7F3D0">ID: 195</text>
+    <text x="2937" y="507" class="text">Navaja multius</text>
+    <text x="2937" y="522" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="2846" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="2906" y="582" class="text" style="fill:#A7F3D0">ID: 193</text>
+    <text x="2906" y="597" class="text">Velas blancas </text>
+    <text x="2906" y="612" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="2861" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="2921" y="672" class="text" style="fill:#A7F3D0">ID: 194</text>
+    <text x="2921" y="687" class="text">Fosforos imper</text>
+    <text x="2921" y="702" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="2908" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="2968" y="582" class="text" style="fill:#A7F3D0">ID: 196</text>
+    <text x="2968" y="597" class="text">Cinta adhesiva</text>
+    <text x="2968" y="612" class="text" style="fill:#FCD34D">Cant: 20</text>
+    <rect x="2924" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="2984" y="672" class="text" style="fill:#A7F3D0">ID: 197</text>
+    <text x="2984" y="687" class="text">Cuerda de nylo</text>
+    <text x="2984" y="702" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="3440" y="205" width="120" height="55" rx="8" class="node" />
+    <text x="3500" y="222" class="text" style="fill:#A7F3D0">ID: 199</text>
+    <text x="3500" y="237" class="text">Brujula (resis</text>
+    <text x="3500" y="252" class="text" style="fill:#FCD34D">Cant: 5</text>
+    <rect x="3690" y="295" width="120" height="55" rx="8" class="node" />
+    <text x="3750" y="312" class="text" style="fill:#A7F3D0">ID: 200</text>
+    <text x="3750" y="327" class="text">Carpa / Tienda</text>
+    <text x="3750" y="342" class="text" style="fill:#FCD34D">Cant: 3</text>
+    <rect x="3815" y="385" width="120" height="55" rx="8" class="node" />
+    <text x="3875" y="402" class="text" style="fill:#A7F3D0">ID: 201</text>
+    <text x="3875" y="417" class="text">Mantas termica</text>
+    <text x="3875" y="432" class="text" style="fill:#FCD34D">Cant: 50</text>
+    <rect x="3877" y="475" width="120" height="55" rx="8" class="node" />
+    <text x="3937" y="492" class="text" style="fill:#A7F3D0">ID: 206</text>
+    <text x="3937" y="507" class="text">Tijeras de tra</text>
+    <text x="3937" y="522" class="text" style="fill:#FCD34D">Cant: 10</text>
+    <rect x="3908" y="565" width="120" height="55" rx="8" class="node" />
+    <text x="3968" y="582" class="text" style="fill:#A7F3D0">ID: 208</text>
+    <text x="3968" y="597" class="text">Bolsas de dorm</text>
+    <text x="3968" y="612" class="text" style="fill:#FCD34D">Cant: 15</text>
+    <rect x="3924" y="655" width="120" height="55" rx="8" class="node" />
+    <text x="3984" y="672" class="text" style="fill:#A7F3D0">ID: 210</text>
+    <text x="3984" y="687" class="text">Pelota de futb</text>
+    <text x="3984" y="702" class="text" style="fill:#FCD34D">Cant: 10</text>
+</svg>

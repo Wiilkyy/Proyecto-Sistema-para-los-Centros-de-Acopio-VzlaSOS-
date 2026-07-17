@@ -1,0 +1,110 @@
+198;Herramientas;Radio a pilas / AM-FM (baterias incluidas);5;20301231
+101;Alimentos;Arroz_Blanco (bolsa 1kg);50;20241201
+152;Auxilios;Agua oxigenada (botella 250ml);25;20270430
+134;Medicamentos;Sales de rehidratacion oral (sobre);50;20270420
+165;Higiene;Pañales para bebe (Talla M, paquete 50u);30;20270520
+187;Herramientas;Linterna LED (recargable);15;20301231
+116;Alimentos;Mantequilla de mani (frasco 400g);20;20270625
+146;Auxilios;Gasas esteriles (paquete 10u);30;20270601
+122;Bebidas;Agua embotellada (1L);100;20261212
+177;Bebe;Carrito para bebe (plegable);3;20301231
+103;Alimentos;Pasta espagueti (paquete 500g);60;20270520
+156;Auxilios;Guantes de nitrilo (caja 100u, talla M);10;20270501
+147;Auxilios;Vendas de gasa (rollo 5cm);25;20270510
+191;Herramientas;Silbato de emergencia (alta frecuencia);15;20301231
+112;Alimentos;Sal de mesa (paquete 1kg);30;20281201
+159;Auxilios;Jeringas esteriles (5ml, caja 20u);10;20260915
+131;Medicamentos;Loratadina (tabletas 10mg, caja 10u);15;20270715
+175;Higiene;Cloro (botella 1L);20;20271010
+104;Alimentos;Atun en lata (agua);100;20260715
+185;Entretenimiento;Libro de colorear + crayones (set);8;20301231
+148;Auxilios;Venda elastica (rollo 10cm);15;20270405
+126;Medicamentos;Amoxicilina (capsulas 500mg, caja 20u);20;20260930
+171;Higiene;Pasta dental (tubo 100ml);20;20270901
+119;Alimentos;Cafe molido (paquete 250g);10;20260901
+153;Auxilios;Povidona yodada (botella 120ml);15;20270620
+138;Medicamentos;Calcio + Vitamina D (tabletas, 30u);10;20270805
+192;Herramientas;Encendedor (gas, recargable);15;20301231
+108;Alimentos;Lentejas (bolsa 1kg);30;20270501
+166;Higiene;Pañales para adulto (Talla L, paquete 20u);15;20270610
+145;Medicamentos;Ivermectina (tabletas 6mg, caja 4u);15;20270515
+182;Entretenimiento;Juego de mesa (Monopoly / Turista);5;20301231
+125;Bebidas;Jugo de caja (multifruta 200ml);40;20260415
+149;Auxilios;Curitas / Apositos adhesivos (caja 100u);20;20270720
+167;Higiene;Toallitas humedas (paquete 80u);40;20270410
+113;Alimentos;Azucar blanca (paquete 1kg);30;20281115
+178;Bebe;Portabebes / Mochila canguro;4;20301231
+133;Medicamentos;Loperamida (capsulas 2mg, caja 12u);20;20260825
+195;Herramientas;Navaja multiusos / Swiss knife;10;20301231
+121;Bebidas;Agua embotellada (500ml);120;20261212
+142;Medicamentos;Inhalador Salbutamol (200 dosis);8;20270525
+170;Higiene;Champu (botella 400ml);15;20280101
+110;Alimentos;Leche en polvo entera (400g);25;20261030
+179;Bebe;Biberon de vidrio (250ml);10;20301231
+127;Medicamentos;Paracetamol (tabletas 500mg, caja 30u);30;20260815
+186;Entretenimiento;Cartas UNO (juego);6;20301231
+107;Alimentos;Arvejas en lata;50;20261020
+160;Auxilios;Jeringas esteriles (10ml, caja 20u);8;20260915
+143;Medicamentos;Nitroglicerina (tabletas sublinguales);5;20260730
+111;Alimentos;Formula infantil (lata 800g);15;20260920
+180;Bebe;Chupete (silicon, 0-6 meses);8;20301231
+128;Medicamentos;Ibuprofeno (tabletas 600mg, caja 20u);25;20261010
+190;Herramientas;Bateria externa / Power bank (10000mAh);8;20301231
+109;Alimentos;Avena en hojuelas (caja 400g);45;20270412
+183;Entretenimiento;Naipes / Cartas de poker (baraja);10;20301231
+155;Auxilios;Baja lenguas (paquete 50u);10;20281201
+137;Medicamentos;Multivitaminico (tabletas, frasco 30u);15;20270610
+172;Higiene;Cepillo dental (unidad);20;20301231
+115;Alimentos;Miel de abeja (frasco 500g);15;20280501
+196;Herramientas;Cinta adhesiva fuerte / Duct tape (rollo);20;20301231
+124;Bebidas;Suero oral en polvo (sobre);60;20270505
+164;Higiene;Protectores diarios (caja 30u);20;20271115
+102;Alimentos;Frijoles negros (bolsa 1kg);40;20261115
+176;Higiene;Bolsas de basura (rollo 20u);30;20301231
+151;Auxilios;Alcohol isopropilico 70% (botella 500ml);20;20270515
+132;Medicamentos;Aspirina (tabletas 100mg, caja 30u);25;20260901
+188;Herramientas;Pilas AA (paquete 12u);25;20281201
+114;Alimentos;Aceite vegetal (botella 1L);20;20271010
+150;Auxilios;Esparadrapo (rollo 2.5cm);15;20280301
+140;Medicamentos;Enalapril (tabletas 10mg, caja 30u);10;20261101
+162;Higiene;Papel higienico (paquete 12 rollos);40;20301231
+129;Medicamentos;Metronidazol (tabletas 500mg, caja 20u);15;20261120
+184;Entretenimiento;Juego de ajedrez (tablero plegable);4;20301231
+117;Alimentos;Galletas de soda (paquete);70;20260515
+193;Herramientas;Velas blancas (paquete 10u);20;20301231
+136;Medicamentos;Vitamina C (tabletas efervescentes, 10u);20;20270530
+169;Higiene;Jabon liquido (botella 500ml);25;20271215
+106;Alimentos;Maiz dulce en lata;50;20260905
+197;Herramientas;Cuerda de nylon (50 metros);10;20301231
+144;Medicamentos;Acetaminofen gotas (infantil, 15ml);10;20260810
+168;Higiene;Alcohol en gel (botella 500ml);25;20270530
+105;Alimentos;Sardinas en lata (aceite);80;20260810
+199;Herramientas;Brujula (resistente al agua);5;20301231
+120;Alimentos;Te en bolsitas (caja 20u);15;20270815
+161;Auxilios;Collarin cervical (talla unica);4;20301231
+135;Medicamentos;Difenhidramina (tabletas 25mg, caja 10u);10;20260915
+173;Higiene;Jabon lavaplatos (botella 500ml);15;20271201
+118;Alimentos;Sopa deshidratada (sobre);50;20260430
+189;Herramientas;Pilas AAA (paquete 12u);20;20281201
+141;Medicamentos;Metformina (tabletas 850mg, caja 30u);10;20261015
+163;Higiene;Toallitas sanitarias (caja 20u);35;20271201
+139;Medicamentos;Antiacido masticable (tabletas, 24u);15;20260720
+200;Herramientas;Carpa / Tienda de campaña (4 personas);3;20301231
+154;Auxilios;Algodon hidrofilo (paquete 100g);20;20280101
+194;Herramientas;Fosforos impermeables (caja 50u);15;20301231
+130;Medicamentos;Omeprazol (capsulas 20mg, caja 28u);20;20270501
+181;Bebe;Comida para bebe (tarro 200g, verduras);30;20260520
+157;Auxilios;Mascarillas quirurgicas (caja 50u);30;20270810
+174;Higiene;Detergente para ropa (bolsa 1kg);15;20280115
+123;Bebidas;Agua embotellada (5L);30;20261212
+158;Auxilios;Termometro digital;5;20301231
+201;Herramientas;Mantas termicas de emergencia;50;20301231
+202;Bebidas;Pastillas potabilizadoras de agua (50u);25;20281015
+203;Medicamentos;Diclofenaco (gel 50g);15;20261101
+204;Higiene;Repelente de mosquitos (spray 200ml);30;20270920
+205;Alimentos;Sopa enlatada (vegetales y pollo);40;20260515
+206;Auxilios;Tijeras de trauma;10;20301231
+207;Bebe;Toallitas limpiadoras para chupetes;20;20270110
+208;Herramientas;Bolsas de dormir (saco de dormir);15;20301231
+209;Medicamentos;Insulina (vial 10ml - requiere frio);5;20261201
+210;Entretenimiento;Pelota de futbol (desinflada + bomba);10;20301231
