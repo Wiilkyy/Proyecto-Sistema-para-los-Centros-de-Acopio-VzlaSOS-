@@ -6,7 +6,7 @@
 #include <string.h>
 #include <ctype.h>
 
-// Estruc del producto 
+// Estructura que va a ser empleada por los productos
 typedef struct Producto {
     int id;
     char nombre[100];     
@@ -44,7 +44,7 @@ int obtenerBalance(NodoAVL *N);
 NodoAVL* insertarAVL(NodoAVL* nodo, Producto prod);
 void inOrder(NodoAVL *raiz);
 
-// Nuevas funciones para el despacho por categoría y ID
+// Funcion despacho por categoria y ID
 void mostrarPorCategoria(NodoAVL *raiz, const char* categoria, int *encontrados);
 void encontrarMasViejoPorID(NodoAVL* raiz, int id, NodoAVL** encontrado);
 int obtenerStockTotal(NodoAVL* raiz, int id);
@@ -52,7 +52,7 @@ NodoAVL* nodoMinimo(NodoAVL* nodo);
 NodoAVL* eliminarAVL(NodoAVL* raiz, int fecha_vencimiento, int id);
 void despacharProductoPorID(NodoAVL **raiz, NodoHistorial **histCabeza, NodoHistorial **histCola, int id, int cantidadPedida);
 
-// Funciones para Dibujar el arbol Fractal (nuevas)
+// Funcion de dibujo para el arbol fractal 
 void dibujarLineasSVG(NodoAVL *raiz, int min_x, int max_x, int y, int dy, int px, int py, FILE *archivo);
 void dibujarNodosSVG(NodoAVL *raiz, int min_x, int max_x, int y, int dy, FILE *archivo);
 void exportarArbolSVG(NodoAVL *raiz, const char *nombreArchivo);
